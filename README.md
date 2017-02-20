@@ -58,9 +58,9 @@ normal application [default]
 
 ## Live Demo
 
-1. For Users [Heroku].
+1. For Users http://localhost:3000
 
-2. For Admins [HerokuAdminUrl]
+2. For Admins http://localhost:3000/admin
 
 #### Credentials to login as admin
 ```sh
